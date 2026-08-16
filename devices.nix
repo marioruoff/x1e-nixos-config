@@ -7,4 +7,8 @@
     displayName = "Lenovo ThinkPad T14s Gen 6";
     deviceTreeName = "qcom/x1e78100-lenovo-thinkpad-t14s.dtb";
   };
+  dell-xps13-9345 = {
+    displayName = "Dell XPS 13 9345";
+    deviceTreeName = "qcom/x1e80100-dell-xps13-9345.dtb";
+  };
 }
